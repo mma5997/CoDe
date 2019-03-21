@@ -1,0 +1,2 @@
+# CoDe
+some basic codes
